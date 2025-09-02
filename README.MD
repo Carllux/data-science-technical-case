@@ -13,10 +13,11 @@
 <p align="center">
   <img src="assets/capa.png" alt="Project Banner" width="80%"/>
 </p>
-[🇧🇷 Ver este README em Português](./README-PT.md)
+
 
 
 This repository contains a comprehensive solution to a technical case study for a Data Scientist position, covering topics in recommendation systems, natural language processing (NLP), causal inference, and regression analysis.
+[🇧🇷 Ver este README em Português](./README-PT.md)
 
 ---
 
@@ -75,5 +76,6 @@ This project is divided into three distinct business problems:
 ---
 
 *This project was completed as part of a selective process for a Data Scientist role.*
+
 
 
