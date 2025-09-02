@@ -1,19 +1,18 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/Projeto-Case%20Técnico-lightgrey?style=for-the-badge" alt="Projeto"/>
-  <img src="https://img.shields.io/badge/Linguagem-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Linguagem"/>
-  <img src="https://img.shields.io/badge/Análise-Pandas%20|%20Statsmodels%20|%20Scipy-blue?style=for-the-badge" alt="Análise"/>
-  <img src="https://img.shields.io/badge/Visualização-Matplotlib%20|%20Seaborn-orange?style=for-the-badge" alt="Visualização"/>
-  <img src="https://img.shields.io/badge/Áreas-ML%20|%20PNL%20|%20Inferência%20Causal-blueviolet?style=for-the-badge" alt="Áreas"/>
-  <img src="https://img.shields.io/badge/Ambiente-Google%20Colab-F29D68?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Ambiente"/>
+  <img src="https://img.shields.io/badge/Status-Completed-green?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Project-Technical%20Case-lightgrey?style=for-the-badge" alt="Project"/>
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Language"/>
+  <img src="https://img.shields.io/badge/Analysis-Pandas%20|%20Statsmodels%20|%20Scipy-blue?style=for-the-badge" alt="Analysis"/>
+  <img src="https://img.shields.io/badge/Visualization-Matplotlib%20|%20Seaborn-orange?style=for-the-badge" alt="Visualization"/>
+  <img src="https://img.shields.io/badge/Areas-ML%20|%20NLP%20|%20Causal%20Inference-blueviolet?style=for-the-badge" alt="Areas"/>
+  <img src="https://img.shields.io/badge/Environment-Google%20Colab-F29D68?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Environment"/>
 </p>
 
 <h1 align="center">Data Scientist Technical Case Study</h1>
 
 <p align="center">
-    <img src="assets/capa.png" alt="Banner do Projeto" width="80%"/>
+  <img src="assets/capa.png" alt="Project Banner" width="80%"/>
 </p>
-
 This repository contains a comprehensive solution to a technical case study for a Data Scientist position, covering topics in recommendation systems, natural language processing (NLP), causal inference, and regression analysis.
 
 ---
@@ -73,5 +72,6 @@ This project is divided into three distinct business problems:
 ---
 
 *This project was completed as part of a selective process for a Data Scientist role.*
+
 
 [🇧🇷 Ver este README em Português](./README-PT.md)
